@@ -113,8 +113,8 @@
 
 本規約に関するご質問は、下記までご連絡ください。個人開発のため、すべてのお問い合わせに回答できるとは限りません。回答の有無や時期をお約束するものではありません。ただし、法令上対応が必要な場合はこの限りではありません。
 
-[aokhaki.support.8aew8fne@gmail.com](mailto:aokhaki.support.8aew8fne@gmail.com)
+[tojiapps.mail.mail@gmail.com](mailto:tojiapps.mail.mail@gmail.com)
 
 ---
 
-© 2026 aokhaki
+© 2026 tojiapps
